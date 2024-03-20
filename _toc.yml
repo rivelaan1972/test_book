@@ -1,0 +1,12 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: 1. introduction
+    chapters:
+      - file: notebooks.ipynb
+  - caption: 2. fllow up
+    chapters:
+      - file: s04_review_ML_sklearn/s04.2-cost-benefit-analysis.ipynb
